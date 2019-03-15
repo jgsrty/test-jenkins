@@ -1,6 +1,7 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
+    <!-- <img alt="Vue logo" src="../assets/logo.png"> -->
+    <HelloWorld msg="2019-03-15 test Jenkins2"/>
     <HelloWorld msg="2019-03-15 test Jenkins"/>
   </div>
 </template>
